@@ -12,7 +12,7 @@ const Hero = () => {
               South Indian Bridal Specialist
             </span>
             <h1 className="font-playfair text-4xl md:text-6xl leading-tight mt-4">
-              Jasmine Glow Artistry — Bridal Makeup Tamil Nadu
+            Shifa Fathima Glow Artistry — Bridal Makeup Tamil Nadu
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mt-4 md:mt-6 max-w-prose">
               Timeless Tamil bridal looks blending classic elegance with modern finesse — flawless skin, refined eyes, and signature jasmine accents.

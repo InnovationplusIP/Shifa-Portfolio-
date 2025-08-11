@@ -8,7 +8,7 @@ const Index = () => {
   const ld = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Jasmine Glow Artistry',
+    name: 'Shifa Fathima Glow Artistry',
     jobTitle: 'Makeup Artist',
     address: {
       '@type': 'PostalAddress',
