@@ -5,9 +5,7 @@ import { Menu } from "lucide-react";
 
 const NavItems = () => (
   <nav className="hidden md:flex items-center gap-6">
-    <a className="text-sm hover:underline underline-offset-4" href="/#services">Services</a>
-    <a className="text-sm hover:underline underline-offset-4" href="/#portfolio">Portfolio</a>
-    <a className="text-sm hover:underline underline-offset-4" href="/#testimonials">Testimonials</a>
+   
     <Link className="text-sm hover:underline underline-offset-4" to="/contact">Contact</Link>
   </nav>
 );
