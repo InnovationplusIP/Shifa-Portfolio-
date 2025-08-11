@@ -6,12 +6,12 @@ import img5 from "@/assets/portfolio-05.jpg";
 import img6 from "@/assets/portfolio-06.jpg";
 
 const items = [
-  { src: img1, alt: "Tamil bridal muhurtham look with temple jewelry and jasmine" },
+  { src: img1, alt: "Tamil bridal muhurtham look with temple jewelry and Shifa Fathima" },
   { src: img2, alt: "Reception glam with bronze smokey eye and glossy lips" },
   { src: img3, alt: "Daytime haldi/mehndi dewy natural makeup" },
   { src: img4, alt: "Bold evening look with plum lipstick and defined eyeliner" },
-  { src: img5, alt: "Bridesmaid glam with coral tones and jasmine accents" },
-  { src: img6, alt: "Classic Tamil bridal profile with temple jewelry and jasmine braid" },
+  { src: img5, alt: "Bridesmaid glam with coral tones and Shifa accents" },
+  { src: img6, alt: "Classic Tamil bridal profile with temple jewelry and Shifa braid" },
 ];
 
 const Gallery = () => {

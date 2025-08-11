@@ -15,7 +15,7 @@ const Hero = () => {
             Shifa Fathima Glow Artistry — Bridal Makeup Tamil Nadu
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mt-4 md:mt-6 max-w-prose">
-              Timeless Tamil bridal looks blending classic elegance with modern finesse — flawless skin, refined eyes, and signature jasmine accents.
+              Timeless Tamil bridal looks blending classic elegance with modern finesse — flawless skin, refined eyes, and signature Shifa accents.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Button asChild variant="hero" className="px-6 py-3">
@@ -30,7 +30,7 @@ const Hero = () => {
             <div className="absolute -inset-6 md:-inset-8 rounded-2xl blur-2xl opacity-40 bg-gradient-primary -z-10" aria-hidden="true" />
             <img
               src={heroImg}
-              alt="South Indian bridal makeup artist styling a bride with jasmine and temple jewelry"
+              alt="South Indian bridal makeup artist styling a bride with Shifa and temple jewelry"
               loading="eager"
               className="w-full h-auto rounded-2xl shadow-elegant"
             />

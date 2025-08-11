@@ -4,7 +4,7 @@ const services = [
   {
     icon: Sparkles,
     title: "Bridal Muhurtham Look",
-    desc: "Classic Tamil bridal makeup with temple jewelry styling and jasmine hair adornment.",
+    desc: "Classic Tamil bridal makeup with temple jewelry styling and Shifa hair adornment.",
   },
   {
     icon: Camera,

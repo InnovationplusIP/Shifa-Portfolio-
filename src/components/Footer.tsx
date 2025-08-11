@@ -15,7 +15,7 @@ const Footer = () => {
             <a className="underline-offset-4 hover:underline" href="/#testimonials">Testimonials</a>
             <a className="underline-offset-4 hover:underline" href="/contact">Contact</a>
             <a className="underline-offset-4 hover:underline" href="mailto:booking@example.com">Email</a>
-            <a className="underline-offset-4 hover:underline" href="tel:+919000000000">Call</a>
+            <a className="underline-offset-4 hover:underline" href="tel:+918870811796">Call</a>
           </nav>
         </div>
         <p className="text-xs text-muted-foreground mt-6">© {new Date().getFullYear()} Tamil Nadu Bridal Makeup Artist. All rights reserved.</p>

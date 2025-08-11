@@ -43,7 +43,7 @@ const Navbar = () => {
   return (
     <header className="sticky top-0 z-50 bg-background/80 backdrop-blur border-b">
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-        <Link to="/" className="font-playfair text-xl">Jasmine Glow Artistry</Link>
+        <Link to="/" className="font-playfair text-xl">Shifa Fathima Glow Artistry</Link>
         <div className="flex items-center gap-4">
           <NavItems />
           <a className="hidden md:inline-block" href="mailto:booking@example.com?subject=Bridal%20Makeup%20Consultation">

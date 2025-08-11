@@ -13,7 +13,7 @@ const testimonials = [
   },
   {
     quote:
-      "Professional, punctual, and so talented. The jasmine hair styling was a beautiful touch.",
+      "Professional, punctual, and so talented. The Shifa hair styling was a beautiful touch.",
     name: "Ananya D.",
     location: "Madurai",
   },
